@@ -25,7 +25,7 @@ def calc_outcome(opponent_move, player_move):
 
 
 # part 1 : comment out when want part 2.
-# with open("data.txt") as file:
+# with open("startpos.txt") as file:
 #     for line in file:
 #         current = line.split()
 #         # want to make each move have same value. A & X = 1.

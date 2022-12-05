@@ -25,7 +25,7 @@ for x in range(1, 4):
 print(sum(top_elves))  # result of part 2.
 
 # most interesting solution to me found on reddit.
-# with open("data.txt") as file:
+# with open("startpos.txt") as file:
 #    data = [[int(y) for y in x.splitlines()] for x in file.read().split("\n\n")]
 #    sorted_data = sorted(sum(x) for x in data)
 #    print(max(sorted_data))
